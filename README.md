@@ -3,11 +3,16 @@
 This is the official implementation for the paper **CADrawer: Autoregressive Generation of CAD Program**.  
 Our system takes **3D sketches** as input and outputs **CAD programs**.
 
-Paper Link : [TBD]
+Paper Link : (https://liyb2002.github.io/yuanboli_files/EG26_CADrawer.pdf)
 
 If you have any problems, feel free to ask help from yuanboli at brown dot edu.
 
 ---
+## NEWS
+There's a growing number of requests for using our dataset. Thank you!!!
+If there's anything you feel unclear about the dataset, you may request a 15mins tutorial with the author: yuanboli at brown dot edu
+
+This dataset is also credit to: Henro Kriel, Marzia Riso, Gilda Manfredi, Adrien Bousseau, and Daniel Ritchie
 
 ## Prerequisite
 
